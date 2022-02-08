@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Software/AndroidStudioProjects/BuscaChocolatesV2.4/app/src/main/res/layout/activity_game.xml" value="0.26927083333333335" />
+        <entry key="..\:/Software/AndroidStudioProjects/BuscaChocolatesV2.4/app/src/main/res/layout/activity_video.xml" value="0.26927083333333335" />
+        <entry key="..\:/Software/AndroidStudioProjects/BuscaminasV2/app/src/main/res/layout/activity_game.xml" value="0.26927083333333335" />
+        <entry key="..\:/Software/AndroidStudioProjects/BuscaminasV2/app/src/main/res/layout/activity_splash.xml" value="0.3625" />
+        <entry key="..\:/Software/AndroidStudioProjects/BuscaminasV2/app/src/main/res/layout/splash.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/2dam/Desktop/2DAM/PMD/BuscaminasV2/app/src/main/res/drawable/border.xml" value="0.1875" />
+        <entry key="..\:/Users/2dam/Desktop/2DAM/PMD/BuscaminasV2/app/src/main/res/layout/activity_game.xml" value="0.264" />
+        <entry key="..\:/Users/2dam/Desktop/2DAM/PMD/BuscaminasV2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/2dam/Desktop/2DAM/PMD/BuscaminasV2/app/src/main/res/layout/activity_settings.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/2dam/Desktop/2DAM/PMD/BuscaminasV2/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/Users/2dam/Desktop/2DAM/PMD/BuscaminasV2/app/src/main/res/layout/activity_video.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/2dam/Desktop/BuscaChocolatesV2.1/BuscaChocolatesV2.1/app/src/main/res/layout/activity_game.xml" value="0.1" />
+        <entry key="..\:/Users/2dam/Desktop/BuscaChocolatesV2.1/BuscaChocolatesV2.1/app/src/main/res/layout/activity_settings.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/2dam/Desktop/BuscaChocolatesV2.1/BuscaChocolatesV2.1/app/src/main/res/layout/videoalert.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Aritz/Desktop/BuscaChocolatesV2.2_AritzArrieta/BuscaChocolatesV2.1/BuscaChocolatesV2.1/app/src/main/res/layout/activity_game.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/Aritz/Desktop/BuscaChocolatesV2.2_AritzArrieta/BuscaChocolatesV2.1/BuscaChocolatesV2.1/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Aritz/Desktop/BuscaChocolatesV2.2_AritzArrieta/BuscaChocolatesV2.1/BuscaChocolatesV2.1/app/src/main/res/layout/activity_score.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/Aritz/Desktop/BuscaChocolatesV2.2_AritzArrieta/BuscaChocolatesV2.1/BuscaChocolatesV2.1/app/src/main/res/layout/activity_settings.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/Aritz/Desktop/BuscaChocolatesV2.2_AritzArrieta/BuscaChocolatesV2.1/BuscaChocolatesV2.1/app/src/main/res/layout/activity_splash.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/Aritz/Desktop/BuscaChocolatesV2.2_AritzArrieta/BuscaChocolatesV2.1/BuscaChocolatesV2.1/app/src/main/res/layout/activity_video.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/Aritz/Desktop/BuscaminasV2/BuscaminasV2/app/src/main/res/layout/activity_game.xml" value="0.371875" />
+        <entry key="..\:/Users/Aritz/Desktop/BuscaminasV2/BuscaminasV2/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/Users/Aritz/Desktop/BuscaminasV2/BuscaminasV2/app/src/main/res/layout/activity_settings.xml" value="0.25" />
+        <entry key="..\:/Users/Aritz/Desktop/BuscaminasV2/BuscaminasV2/app/src/main/res/layout/videoalert.xml" value="0.2608695652173913" />
+        <entry key="..\:/Users/mikel/Desktop/BuscaChocolatesV2.3/app/src/main/res/layout/activity_score.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChocoFinder</string>
+    <string name="text_username">Username</string>
+    <string name="prompt_username">Enter your Username</string>
+    <string name="text_null">Please, enter a Username</string>
+    <string name="text_exit_confirm">¿Are you sure to exit?</string>
+    <string name="ModeTitle">Mode</string>
+    <string name="ezMode">Easy</string>
+    <string name="hardMode">Hard</string>
+    <string name="ThemeTitle">Theme</string>
+    <string name="SaveSetting">"Save"</string>
+    <string name="banderas">10</string>
+    <string name="btnActivado">Enabled</string>
+    <string name="btnDesactivado">Disabled</string>
+    <string name="btnPuesto">Flag</string>
+    <string name="time">5</string>
+    <string name="mine">mine</string>
+    <string name="cell">cell</string>
+    <string name="pos">#</string>
+    <string name="score">Score</string>
+    <string name="play_again">Play Again</string>
+    <string name="lose">Game Over</string>
+    <string name="Win">You Win</string>
+    <string name="points">0</string>
+    <string name="bad">Bad</string>
+    <string name="good">Good</string>
+    <string name="sick">Sick!</string>
+    <string name="dev1">Daniel Brizuela</string>
+    <string name="dev2">Aritz Arrieta</string>
+    <string name="dev3">Mikel Matilla</string>
+    <string name="musicTittle"> music </string>
+    <string name="photo"> Photo </string>
+</resources>
